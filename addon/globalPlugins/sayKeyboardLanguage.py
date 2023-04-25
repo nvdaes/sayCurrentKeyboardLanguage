@@ -1,8 +1,8 @@
 # -*- coding: UTF-8 -*-
 # sayKeyboardLanguage.py
 # Copyright 2017-2018 Abdelkrim Bensaïd, Noelia Ruiz-Martinez and other contributors, released under gPL.
-#This file is covered by the GNU General Public License.
-#See the file COPYING for more details.
+# This file is covered by the GNU General Public License.
+# See the file COPYING for more details.
 # Authors:
 # Abdel <abdelkrim.bensaid@gmail.com>
 # Noelia <nrm1977@gmail.com>
