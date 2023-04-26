@@ -59,6 +59,6 @@ class GlobalPlugin (globalPluginHandler.GlobalPlugin):
 	# Adding the script to the SCRCAT_SYSTEM category.
 	script_sayCurKeyboardLanguage.category = SCRCAT_SYSTEM
 
-	__gestures={
+	__gestures = {
 		"kb:nvda+f4":"sayCurKeyboardLanguage"
 	}
