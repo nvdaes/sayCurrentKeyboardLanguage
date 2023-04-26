@@ -1,4 +1,4 @@
-# sayCurrentKeyboardLanguage #
+# Sano näppäimistön nykyinen kieli #
 
 * Tekijät: Abdel, Noelia;
 * Lataa [vakaa versio][1];
@@ -20,7 +20,7 @@ yleisliitännäinen, mutta myöhemmin se muunnettiin lisäosaksi.
 
 Mikäli pikanäppäin NVDA+F4 on ristiriidassa jonkin toisen komennon kanssa,
 voit muuttaa sitä menemällä NVDA:n Asetukset-valikkoon ja valitsemalla
-"Syötekomennot"-vaihtoehdon.
+"Näppäinkomennot"-vaihtoehdon.
 
 Lisäosan komento löytyy tämän jälkeen "Järjestelmän tila" -kategoriasta.
 
@@ -49,6 +49,6 @@ Lisäosan komento löytyy tämän jälkeen "Järjestelmän tila" -kategoriasta.
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=ckbl
+[1]: https://www.nvaccess.org/addonStore/legacy?file=ckbl
 
-[2]: https://addons.nvda-project.org/files/get.php?file=ckbl-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=ckbl-dev

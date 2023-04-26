@@ -28,8 +28,8 @@ Du finder derefter scriptet i kategorien "Systemstatus".
 
 ## Kompatibilitet ##
 
-* This add-on is compatible with the versions of NVDA ranging from 2014.3
-  until 2019.3.
+* Denne tilføjelse er kompatibel med versionerne af NVDA fra 2014.3 til
+  2019.3.
 
 ## Ændringer for version 19.02 ##
 
@@ -52,6 +52,6 @@ Du finder derefter scriptet i kategorien "Systemstatus".
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=ckbl
+[1]: https://www.nvaccess.org/addonStore/legacy?file=ckbl
 
-[2]: https://addons.nvda-project.org/files/get.php?file=ckbl-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=ckbl-dev
