@@ -24,7 +24,7 @@ You will then find the script in the "System status" category.
 
 * This add-on is compatible with the versions of NVDA ranging from 2014.3 and beyond.
 
-## Changes for version 20230425.0.0 ##
+## Changes for version 20230426.0.0 ##
 
 * Changed version number, minimum NVDA version and download link according to store conventions/requirements.
 * Compatible with NVDA2023.1 and beyond.
